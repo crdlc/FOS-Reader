@@ -1,0 +1,19 @@
+{
+  "name": "FOSReader",
+  "description": "QR Code Reader",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Cristian Rodriguez de la Cruz"
+  },
+  "locales": {
+    "en-US": {
+      "name": "FOSReader",
+      "description": "QR Code Reader"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "60": "/style/icons/reader.png"
+  },
+  "orientation": "portrait-primary"
+}
